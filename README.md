@@ -1,5 +1,5 @@
 # DOG VS CAT
-This project was made as an academic assignment. Main goal was to make a functionable and interesting application in Matlab. At the same time I was working on image classification task with usage of deep learning, so I decided to combine both goals and that's how idea for this app was born.
+This project was made as an academic assignment (That is why comments had to be in polish language). Main goal was to make a functionable and interesting application in Matlab. At the same time I was working on image classification task with usage of deep learning, so I decided to combine both goals and that's how idea for this app was born.
 
 ## Prerequisites
 It's necessary to have tensorflow and openCV installed. It is also required to get numpy (but I assume that most people have it already installed)
